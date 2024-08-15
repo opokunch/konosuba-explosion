@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{ex:1, display:{Name: '[{"text": "めぐみんの杖", "color": "aqua", "bold": true}]'}} 1
