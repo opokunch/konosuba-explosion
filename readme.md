@@ -1,4 +1,4 @@
-# Konosuba-Explosion DP
+# Konosuba-Explosion DP[1.17~1.20.6]
 なんとなくで作りました。
 好きにダウンロードしてください
 
