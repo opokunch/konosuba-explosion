@@ -3,4 +3,4 @@ execute as @e[type=armor_stand, nbt={CustomName: '"ex"', OnGround: true}] at @s 
 
 execute as @e[type=armor_stand, nbt={CustomName: '"ex"', OnGround: true}] at @s run summon creeper ~ ~ ~ {ExplosionRadius:96b, Fuse: 0s, powered: true}
 
-execute as @e[type=armor_stand, nbt={CustomName: '"ex"', OnGround: true}] at @s run function opo:reset-debug
+execute as @e[type=armor_stand, nbt={CustomName: '"ex"', OnGround: true}] at @s run function opo:explosion/reset
