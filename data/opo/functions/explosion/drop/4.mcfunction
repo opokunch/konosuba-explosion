@@ -1,0 +1,1 @@
+title @a title {"text": "我が力、見るがいい！", "color": "red"}

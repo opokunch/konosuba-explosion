@@ -1,0 +1,1 @@
+title @a title [{"text": "我が名は", "color": "red"}, {"selector": "@a[tag=opoex]"}, {"text": "。"}]

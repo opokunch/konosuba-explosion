@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand, nbt={CustomName: '"ex"'}] at @s run particle flame ~ ~ ~ .3 .3 .3 0 30 force
